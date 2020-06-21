@@ -18,6 +18,5 @@ header h1 {
 
 body  {
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background: url("../images/profc4-tech-logo.png") no-repeat;
-  
+  background: grey url("../images/achtergrond.jpg") repeat;
 }
